@@ -9,7 +9,7 @@ I have worked on several scraping projects to scrape and automate the formatting
 3. **[GOV.UK](https://www.gov.uk)**
 4. **[influencer.co](https://influencer.co)**
 5. **[bazoom.com](https://bazoom.com)**
-6. **[Business On Google ](https://google.com)**
+6. **[Businesses On Google Maps ](https://google.com)**
 
 ## Code Base
 
