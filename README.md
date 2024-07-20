@@ -24,3 +24,6 @@ Most of the scraping code is on Google Drive.
 
 - **Google Drive**: [Scraping Project Files](https://drive.google.com/drive/folders/1_Jy6selt2ntlQ5TDJQ_liL5zM_IzOiZlc?usp=sharing)
 - **GitHub Repository**: [Web Scraping Projects](https://github.com/abdulqadircp/web-scraping)
+
+
+**[How to download Chromedriver for Selenium](https://www.automationtestinghub.com/download-chrome-driver/)**
